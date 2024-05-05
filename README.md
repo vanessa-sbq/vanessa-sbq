@@ -11,13 +11,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessa-sbq&theme=github-dark-blue&border_radius=10&date_format=j%20M%5B%20Y%5D&hide_border=true&border=EBDBB2&card_width=500" alt="GitHub Streak" alt="vanessa-sbq" />
 </p>
 
-
-<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanessa-sbq&" alt="vanessa-sbq" /></p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessa-sbq&show_icons=true&locale=en" alt="vanessa-sbq" /></p>
- -->
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
