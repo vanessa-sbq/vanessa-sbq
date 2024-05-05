@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Vanessa Queirós
+<h2 align="left">👋 Hi, I'm Vanessa Queirós</h2>
 
 - 🎓 I'm currently in my second year pursuing a BSc in Informatics and Computing Engineering.
 - ⚡ I'm very interested in low-level programming and game development
