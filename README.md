@@ -5,11 +5,15 @@
 - 🎨 I'm a creative person
 - 📫 How to reach me: vanessa.sophie.queiros@gmail.com
 
+<br>
+
 <h2 align="center"> Github Statistics </h2>
 <p align="center">
     <img align="center" src="https://streak-stats.demolab.com?user=vanessa-sbq&theme=github-dark-blue&border_radius=10&date_format=j%20M%5B%20Y%5D&hide_border=true&border=EBDBB2&card_width=500" alt="GitHub Streak" />
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessa-sbq&theme=github_dark&hide_border=true&border_color=EBDBB2&show_icons=true&border_radius=8&card_width=490" />
 </p>
+
+<br>
 
 <h2 align = "center">Languages and Tools</h2>
 <p align="center"> 
@@ -54,6 +58,8 @@
         </a> 
 </p>
 
+<br>
+
 <h2 align = "center">Projects at FEUP</h2>
 
 <div align="center">
@@ -61,6 +67,19 @@
 |       UC      |                          Name                           |                      Description                   |
 |:-------------:|:-------------------------------------------------------:|:--------------------------------------------------:|
 |     LDTS      | [ShellShift](https://github.com/vanessa-sbq/ShellShift) | Endless 2D platformer made in Java, using Lanterna |
-
+                                                                                                                    
 </div>
 
+$${\color{gray}Some \space are \space not \space public \space yet...}$$
+
+<br>
+
+<h2 align = "center">Personal Projects</h2>
+
+<div align="center">
+
+|          Name         |                                Description                                 |
+|:---------------------:|:--------------------------------------------------------------------------:|
+| [Collision Simluator](https://github.com/vanessa-sbq/Collision-Simulator) |  Collision simulator I made for my school in 12th grade using Visual Basic |
+
+</div>
