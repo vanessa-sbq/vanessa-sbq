@@ -80,6 +80,6 @@ $${\color{gray}Some \space are \space not \space public \space yet...}$$
 
 |          Name         |                                Description                                 |
 |:---------------------:|:--------------------------------------------------------------------------:|
-| [Collision Simluator](https://github.com/vanessa-sbq/Collision-Simulator) |  Collision simulator I made for my school in 12th grade using Visual Basic |
+| [Collision Simulator](https://github.com/vanessa-sbq/Collision-Simulator) |  Collision simulator I made for my school in 12th grade using Visual Basic |
 
 </div>
