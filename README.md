@@ -70,7 +70,7 @@
                                                                                                                     
 </div>
 
-$${\color{gray}Some \space are \space not \space public \space yet...}$$
+<p align = "center">Some are not public yet...</p>
 
 <br>
 
