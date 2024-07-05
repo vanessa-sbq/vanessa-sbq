@@ -64,9 +64,10 @@
 
 <div align="center">
    
-|       UC      |                          Name                           |                      Description                   |
-|:-------------:|:-------------------------------------------------------:|:--------------------------------------------------:|
-|     LDTS      | [ShellShift](https://github.com/vanessa-sbq/ShellShift) | Endless 2D platformer made in Java, using Lanterna |
+|       UC      |                          Name                           |                         Description                       |
+|:-------------:|:-------------------------------------------------------:|:---------------------------------------------------------:|
+|     LDTS      | [ShellShift](https://github.com/vanessa-sbq/ShellShift) | Endless 2D platformer made in Java, using Lanterna        |
+|      DA       | [TSP](https://github.com/vanessa-sbq/DA-TSP-Proj2)      | Routing Algorithms for Ocean Shipping and Urban Deliveries|
                                                                                                                     
 </div>
 
