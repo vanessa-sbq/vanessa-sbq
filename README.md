@@ -64,11 +64,11 @@
 
 <div align="center">
    
-|       UC      |                          Name                           |                         Description                       |
-|:-------------:|:-------------------------------------------------------:|:---------------------------------------------------------:|
-|     LDTS      | [ShellShift](https://github.com/vanessa-sbq/ShellShift) | Endless 2D platformer made in Java, using Lanterna        |
-|      DA       | [TSP](https://github.com/vanessa-sbq/DA-TSP-Proj2)      | Routing Algorithms for Ocean Shipping and Urban Deliveries|
-|      DA       | [Water Supply Manager]()                                | An Analysis Tool for Water Supply Management              |
+|       UC      |                                 Name                                 |                         Description                       |
+|:-------------:|:--------------------------------------------------------------------:|:---------------------------------------------------------:|
+|     LDTS      | [ShellShift](https://github.com/vanessa-sbq/ShellShift)              | Endless 2D platformer made in Java, using Lanterna        |
+|      DA       | [TSP](https://github.com/vanessa-sbq/DA-TSP-Proj2)                   | Routing Algorithms for Ocean Shipping and Urban Deliveries|
+|      DA       | [Water Supply Manager](https://github.com/AntonioAbilio/Proj-DA-2324)| An Analysis Tool for Water Supply Management              |
                                                                                                                     
 </div>
 
