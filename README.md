@@ -1,6 +1,6 @@
 <h2 align="left">👋 Hi, I'm Vanessa Queirós</h2>
 
-- 🎓 I'm currently in my third year pursuing a BSc in Informatics and Computing Engineering.
+- 🎓 I'm currently in my third year pursuing a degree in Informatics Engineering and Computing.
 - ⚡ I'm very interested in low-level programming and game development
 - 🎨 I'm a creative person
 - 📫 How to reach me: vanessa.sophie.queiros@gmail.com
