@@ -70,6 +70,7 @@
 |      DA       | [TSP](https://github.com/vanessa-sbq/DA-TSP-Proj2)                   | Routing Algorithms for Ocean Shipping and Urban Deliveries|
 |      DA       | [Water Supply Manager](https://github.com/AntonioAbilio/Proj-DA-2324)| An Analysis Tool for Water Supply Management              |
 |     LBAW      | [Scrumbled](https://github.com/vanessa-sbq/Scrumbled)                | A Scrum project management website                        |
+|      IA       | [Owl Sort](https://github.com/vanessa-sbq/OwlSort-AI)                | A puzzle game including AI algorithms to solve it         |
                                                                                                                     
 </div>
 
