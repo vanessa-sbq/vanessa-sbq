@@ -71,6 +71,7 @@
 |      DA       | [Water Supply Manager](https://github.com/AntonioAbilio/Proj-DA-2324)| An Analysis Tool for Water Supply Management              |
 |     LBAW      | [Scrumbled](https://github.com/vanessa-sbq/Scrumbled)                | A Scrum project management website                        |
 |      IA       | [Owl Sort](https://github.com/vanessa-sbq/OwlSort-AI)                | A puzzle game including AI algorithms to solve it         |
+|     LCOM      | [Minigotchi](https://github.com/vanessa-sbq/Minigotchi)              | A tamagotchi-like game for Minix                          |
                                                                                                                     
 </div>
 
