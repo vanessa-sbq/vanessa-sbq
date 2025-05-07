@@ -89,3 +89,15 @@
 | [Shape Invaders](https://github.com/vanessa-sbq/Shape-Invaders)           | Space invaders clone made with Unity                                       |
 
 </div>
+
+<br>
+
+<h2 align = "center">Projects at other Institutions</h2>
+
+<div align="center">
+
+| Institution |          Name                                                             |                                Description                                   |
+|:-----------:|:-------------------------------------------------------------------------:|:----------------------------------------------------------------------------:|
+| ACM FEUP    | [Autodesign](https://github.com/acmfeup/autodesign)                       | Image manipulation software to facilitate the creation of marketing material |
+
+</div>
