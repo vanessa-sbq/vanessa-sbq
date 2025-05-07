@@ -71,6 +71,7 @@
 |     LCOM      | [Minigotchi](https://github.com/vanessa-sbq/Minigotchi)              | A tamagotchi-like game for Minix                          |
 |     RCOM      | [Data Link Protocol](https://github.com/vanessa-sbq/RCOM-Lab1)       | Data link protocol for file transfer                      |
 |      PFL      | [Mabula](https://github.com/vanessa-sbq/PFL-Proj-2)                  | Mabula board game coded in Prolog                         |
+|      AED      | [Flight Manager](https://github.com/vanessa-sbq/AEDFlightManager)    | Air Travel Flight Management System                       |
                                                                                                                     
 </div>
 
