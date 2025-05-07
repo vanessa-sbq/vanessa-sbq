@@ -82,9 +82,10 @@
 
 <div align="center">
 
-|          Name         |                                Description                                 |
-|:---------------------:|:--------------------------------------------------------------------------:|
+|          Name                                                             |                                Description                                 |
+|:-------------------------------------------------------------------------:|:--------------------------------------------------------------------------:|
 | [Collision Simulator](https://github.com/vanessa-sbq/Collision-Simulator) |  Collision simulator I made for my school in 12th grade using Visual Basic |
-| [vanessaqueiros.com](https://www.vanessaqueiros.com/) | Personal website |
+| [vanessaqueiros.com](https://www.vanessaqueiros.com/)                     | Personal website                                                           |
+| [Shape Invaders](https://github.com/vanessa-sbq/Shape-Invaders)           | Space invaders clone made with Unity                                       |
 
 </div>
