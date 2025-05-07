@@ -73,6 +73,7 @@
 |      IA       | [Owl Sort](https://github.com/vanessa-sbq/OwlSort-AI)                | A puzzle game including AI algorithms to solve it         |
 |     LCOM      | [Minigotchi](https://github.com/vanessa-sbq/Minigotchi)              | A tamagotchi-like game for Minix                          |
 |     RCOM      | [Data Link Protocol](https://github.com/vanessa-sbq/RCOM-Lab1)       | Data link protocol for file transfer                      |
+|      PFL      | [Mabula](https://github.com/vanessa-sbq/PFL-Proj-2)                  | Mabula board game coded in Prolog                         |
                                                                                                                     
 </div>
 
