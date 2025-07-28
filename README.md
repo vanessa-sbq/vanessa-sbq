@@ -61,18 +61,19 @@
 
 <div align="center">
    
-|       UC      |                                 Name                                 |                         Description                         |
-|:-------------:|:--------------------------------------------------------------------:|:-----------------------------------------------------------:|
-|     LDTS      | [ShellShift](https://github.com/vanessa-sbq/ShellShift)              | Endless 2D platformer made in Java, using Lanterna          |
-|      DA       | [TSP](https://github.com/vanessa-sbq/DA-TSP-Proj2)                   | Routing Algorithms for Ocean Shipping and Urban Deliveries  |
-|      DA       | [Water Supply Manager](https://github.com/AntonioAbilio/Proj-DA-2324)| An Analysis Tool for Water Supply Management                |
-|     LBAW      | [Scrumbled](https://github.com/vanessa-sbq/Scrumbled)                | A Scrum project management website                          |
-|      IA       | [Owl Sort](https://github.com/vanessa-sbq/OwlSort-AI)                | A puzzle game including AI algorithms to solve it           |
-|     LCOM      | [Minigotchi](https://github.com/vanessa-sbq/Minigotchi)              | A tamagotchi-like game for Minix                            |
-|     RCOM      | [Data Link Protocol](https://github.com/vanessa-sbq/RCOM-Lab1)       | Data link protocol for file transfer                        |
-|     RCOM      | [Computer Network](https://github.com/vanessa-sbq/RCOM-Lab2)         | FTP download application with our own network configuration |
-|      PFL      | [Mabula](https://github.com/vanessa-sbq/PFL-Proj-2)                  | Mabula board game coded in Prolog                           |
-|      AED      | [Flight Manager](https://github.com/vanessa-sbq/AEDFlightManager)    | Air Travel Flight Management System                         |
+|       UC      |                                 Name                                      |                         Description                         |
+|:-------------:|:-------------------------------------------------------------------------:|:-----------------------------------------------------------:|
+|     LDTS      | [ShellShift](https://github.com/vanessa-sbq/ShellShift)                   | Endless 2D platformer made in Java, using Lanterna          |
+|      DA       | [TSP](https://github.com/vanessa-sbq/DA-TSP-Proj2)                        | Routing Algorithms for Ocean Shipping and Urban Deliveries  |
+|      DA       | [Water Supply Manager](https://github.com/AntonioAbilio/Proj-DA-2324)     | An Analysis Tool for Water Supply Management                |
+|     LBAW      | [Scrumbled](https://github.com/vanessa-sbq/Scrumbled)                     | A Scrum project management website                          |
+|      IA       | [Owl Sort](https://github.com/vanessa-sbq/OwlSort-AI)                     | A puzzle game including AI algorithms to solve it           |
+|     LCOM      | [Minigotchi](https://github.com/vanessa-sbq/Minigotchi)                   | A tamagotchi-like game for Minix                            |
+|     RCOM      | [Data Link Protocol](https://github.com/vanessa-sbq/RCOM-Lab1)            | Data link protocol for file transfer                        |
+|     RCOM      | [Computer Network](https://github.com/vanessa-sbq/RCOM-Lab2)              | FTP download application with our own network configuration |
+|      PFL      | [Mabula](https://github.com/vanessa-sbq/PFL-Proj-2)                       | Mabula board game coded in Prolog                           |
+|      AED      | [Flight Manager](https://github.com/vanessa-sbq/AEDFlightManager)         | Air Travel Flight Management System                         |
+|      CG       | [3D Helicopter Scene](https://github.com/vanessa-sbq/3D-Helicopter-Scene) | 3D Scene made with WebGL                                    |
                                                                                                                     
 </div>
 
