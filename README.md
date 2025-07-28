@@ -74,6 +74,7 @@
 |      PFL      | [Mabula](https://github.com/vanessa-sbq/PFL-Proj-2)                       | Mabula board game coded in Prolog                           |
 |      AED      | [Flight Manager](https://github.com/vanessa-sbq/AEDFlightManager)         | Air Travel Flight Management System                         |
 |      CG       | [3D Helicopter Scene](https://github.com/vanessa-sbq/3D-Helicopter-Scene) | 3D Scene made with WebGL                                    |
+|     COMP      | [Java-- Compiler](https://github.com/vanessa-sbq/JavaMM-Compiler)         | Simplified Java variant with extra features                 |
                                                                                                                     
 </div>
 
