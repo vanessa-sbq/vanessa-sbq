@@ -11,7 +11,6 @@
 <h2 align="center"> Github Statistics </h2>
 <p align="center">
     <img align="center" src="https://streak-stats.demolab.com?user=vanessa-sbq&theme=github-dark-blue&border_radius=10&date_format=j%20M%5B%20Y%5D&hide_border=true&border=EBDBB2&card_width=500" alt="GitHub Streak" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessa-sbq&theme=github_dark&hide_border=true&border_color=EBDBB2&show_icons=true&border_radius=8&card_width=490" />
 </p>
 
 <br>
