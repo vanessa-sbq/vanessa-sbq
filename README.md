@@ -75,6 +75,7 @@
 |      AED      | [Flight Manager](https://github.com/vanessa-sbq/AEDFlightManager)         | Air Travel Flight Management System                         |
 |      CG       | [3D Helicopter Scene](https://github.com/vanessa-sbq/3D-Helicopter-Scene) | 3D Scene made with WebGL                                    |
 |     COMP      | [Java-- Compiler](https://github.com/vanessa-sbq/JavaMM-Compiler)         | Simplified Java variant with extra features                 |
+|      SGI      | [3D Aquarium Scene](https://github.com/vanessa-sbq/SGI-PW2)               | 3D Underwater Scene made with Three.js                      |      
                                                                                                                     
 </div>
 
