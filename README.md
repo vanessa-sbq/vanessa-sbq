@@ -77,6 +77,7 @@
 |     COMP      | [Java-- Compiler](https://github.com/vanessa-sbq/JavaMM-Compiler)         | Simplified Java variant with extra features                 |
 |      AC       | [Basketball Season Predictions](https://github.com/vanessa-sbq/AC-Project)| Data Mining Project about Basketball Season Predictions     |
 |      SGI      | [3D Aquarium Scene](https://github.com/vanessa-sbq/SGI-PW2)               | 3D Underwater Scene made with Three.js                      |      
+|      PRI      | [Pritch.io Search Engine](https://github.com/vanessa-sbq/PRI-Pritch.io)   | Information Retrieval about Video Game Metadata             | 
                                                                                                                     
 </div>
 
