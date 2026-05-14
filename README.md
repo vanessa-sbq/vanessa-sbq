@@ -2,7 +2,7 @@
 
 - 🎓 I'm a Master's student in Informatics and Computing Engineering [@FEUP](https://www.up.pt/feup/pt/)
 - 🧐 I'm currently a researcher [@INESCTEC](https://www.inesctec.pt/pt), where I work with RISC-V custom instructions for an SoC
-- ⚡ I'm very interested in low-level programming and game development
+- ⚡ I'm very interested in embedded systems, operating systems, compilers and low-level programming in general.
 - 🎨 I'm a creative person
 - 📫 How to reach me: vanessa.sophie.queiros@gmail.com
 
