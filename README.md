@@ -79,6 +79,7 @@
 |      SGI      | [3D Aquarium Scene](https://github.com/vanessa-sbq/SGI-PW2)                      | 3D Underwater Scene made with Three.js                      |      
 |      PRI      | [Pritch.io Search Engine](https://github.com/vanessa-sbq/PRI-Pritch.io)          | Information Retrieval about Video Game Metadata             | 
 |     SDLE      | [Shopping List App](https://github.com/vanessa-sbq/SDLE-ShoppingListApplication) | Large Scale Distributed Shopping List Application           | 
+|     SETR      | [SmartBin](https://github.com/vanessa-sbq/SETR-SmartBin)                         | Automatic Balloon Catching Robot                            |
                                                                                                                     
 </div>
 
