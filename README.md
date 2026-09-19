@@ -80,6 +80,8 @@
 |      PRI      | [Pritch.io Search Engine](https://github.com/vanessa-sbq/PRI-Pritch.io)          | Information Retrieval about Video Game Metadata             | 
 |     SDLE      | [Shopping List App](https://github.com/vanessa-sbq/SDLE-ShoppingListApplication) | Large Scale Distributed Shopping List Application           | 
 |     SETR      | [SmartBin](https://github.com/vanessa-sbq/SETR-SmartBin)                         | Automatic Balloon Catching Robot                            |
+|      CPA      | [Performance Evaluation](https://github.com/vanessa-sbq/CPA-Assignment1)         | Performance Evaluation of a Single/Multi Core               |
+|      CPA      | [LU Factorization](https://github.com/vanessa-sbq/CPA-Assignment2)               | Shared Memory LU Factorization                              |
                                                                                                                     
 </div>
 
